@@ -1,0 +1,31 @@
+[
+  {
+    "titulo": "Repasando variables",
+    "estado": "en proceso"
+  },
+  {
+    "titulo": "Repasando condicionales",
+    "estado": "en proceso"
+  },
+  {
+    "titulo": "Repasando ciclos",
+    "estado": "en proceso"
+  },
+  {
+    "titulo": "Repasando funciones",
+    "estado": "en proceso"
+  },
+  {
+    "titulo": "Repasando callbacks",
+    "estado": "en proceso"
+  },
+  {
+    "titulo": "hacer tp concesionarias",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "repasar módulo",
+    "estado": "terminado"
+  }
+  
+]
